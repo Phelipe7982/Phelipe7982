@@ -20,7 +20,6 @@
 
 <div>
   <a href="https://github.com/Phelipe7982">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=phelipe7982&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="51%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelipe7982&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
