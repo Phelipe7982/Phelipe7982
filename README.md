@@ -24,13 +24,15 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=phelipe7982&show_icons=true&theme=dracula"
-    height="180"
-  />
+  src="https://github-readme-stats-lovat-ten-57.vercel.app/api?username=phelipe7982&show_icons=true&theme=dracula"
+  alt="GitHub Stats do Phelipe"
+  height="180"
+/>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelipe7982&layout=compact&theme=dracula"
-    height="180"
-  />
+  src="https://github-readme-stats-lovat-ten-57.vercel.app/api/top-langs/?username=phelipe7982&layout=compact&theme=dracula"
+  alt="Linguagens mais usadas por Phelipe"
+  height="180"
+/>
 </div>
 
 ##
